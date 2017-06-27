@@ -1,0 +1,18 @@
+Exception hierarchy
+try, catch finally block - Control flow
+Nested try
+Multiple catch
+finally block return statement
+Error
+Methods of Java Exception Class
+Exception propagation
+Checked and Unchecked Exception
+Use throw and throws keyword
+custom exception
+difference between final, finally and finalize
+
+
+http://java5tutor.info/images/exceptionhierarchy.jpg
+https://www.tutorialspoint.com/java/lang/java_lang_errors.htm
+https://docs.oracle.com/javase/7/docs/api/java/lang/Exception.html
+https://docs.oracle.com/javase/7/docs/api/java/lang/RuntimeException.html
